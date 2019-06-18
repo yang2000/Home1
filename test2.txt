@@ -1,0 +1,14 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is EE1C-F2DB
+
+ Directory of C:\Users\yang2\source\repos\Home1
+
+06/17/2019  09:17 PM    <DIR>          .
+06/17/2019  09:17 PM    <DIR>          ..
+06/17/2019  08:59 PM             5,912 .gitignore
+06/17/2019  09:09 PM    <DIR>          .vs
+06/17/2019  08:59 PM                16 README.md
+06/17/2019  09:03 PM                 5 test1.txt
+06/17/2019  09:17 PM                 0 test2.txt
+               4 File(s)          5,933 bytes
+               3 Dir(s)  360,784,973,824 bytes free
